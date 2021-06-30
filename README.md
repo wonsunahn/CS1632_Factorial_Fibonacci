@@ -1,9 +1,9 @@
 - [CS 1632 - Software Quality Assurance](#cs-1632---software-quality-assurance)
   * [Description](#description)
-  * [Task 1: Write test cases](#task-1--write-test-cases)
-  * [Task 2: Find three defects and write test cases for them](#task-2--find-three-defects-and-write-test-cases-for-them)
-  * [Task 3: Add test cases to test suite and save project](#task-3--add-test-cases-to-test-suite-and-save-project)
-  * [Task 4: Export test suite to JUnit class](#task-4--export-test-suite-to-junit-class)
+  * [Task 1: Write test cases](#task-1-write-test-cases)
+  * [Task 2: Find three defects and write test cases for them](#task-2-find-three-defects-and-write-test-cases-for-them)
+  * [Task 3: Add test cases to test suite and save project](#task-3-add-test-cases-to-test-suite-and-save-project)
+  * [Task 4: Export test suite to JUnit class](#task-4-export-test-suite-to-junit-class)
   * [Submission](#submission)
     + [GitHub submission](#github-submission)
     + [Report submission](#report-submission)
@@ -15,6 +15,8 @@
 Summer Semester 2021
 
 DUE: Jul 12 (Monday), 2021 6:30 PM
+
+**GitHub Classroom Link:** https://classroom.github.com/g/x5hG92Ko
 
 ## Description
 
@@ -139,10 +141,8 @@ https://github.com/wonsunahn/CS1632_Summer2021/blob/master/exercises/3/README.md
 
 ## Submission
 
-Each pairwise group will submit the exercise *once* to GradeScope, by *one
-member* of the group.  The submitting member will press the "View or edit
-group" link at the top-right corner of the assignment page after submission to
-add his/her partner, as usual.  There are two submissions for this deliverable.
+Each group will do one submissions to GradeScope as usual.  The submission is
+done in two parts: the GitHub Classroom repository and a report.
 
 ### GitHub submission
 
@@ -151,9 +151,8 @@ link.  Once you submit, GradeScope will run the autograder to grade you and
 give feedback.  If you get deductions, fix your code based on the feedback and
 resubmit.  Repeat until you don't get deductions.
 
-You can either create a GitHub repository just for Deliverable 3 and then
-submit that.  Or, you may just directly upload files.  If you choose the latter
-option, please make sure you upload the "D3.side" and "D3Test.java" files.
+Please make sure you have the **D3.side** and **D3Test.java** files in your
+repository.
 
 ### Report submission
 
